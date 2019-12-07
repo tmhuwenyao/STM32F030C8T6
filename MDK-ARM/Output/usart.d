@@ -1,0 +1,17 @@
+.\output\usart.o: ..\USART\src\usart.c
+.\output\usart.o: ..\USART\inc\usart.h
+.\output\usart.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\output\usart.o: ..\Libraries\CMSIS\Include\core_cm0.h
+.\output\usart.o: D:\program\keil520\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\usart.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
+.\output\usart.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
+.\output\usart.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\output\usart.o: ..\User\inc\stm32f0xx_conf.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\output\usart.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dma.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
+.\output\usart.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
+.\output\usart.o: D:\program\keil520\ARM\ARMCC\Bin\..\include\stdio.h

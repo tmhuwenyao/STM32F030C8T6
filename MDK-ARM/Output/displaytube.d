@@ -1,0 +1,22 @@
+.\output\displaytube.o: ..\User\App\src\displaytube.c
+.\output\displaytube.o: ..\User\App\inc\displaytube.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Include\core_cm0.h
+.\output\displaytube.o: D:\Program Files\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Include\core_cmInstr.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Include\core_cmFunc.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\system_stm32f0xx.h
+.\output\displaytube.o: ..\User\stm32f0xx_conf.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\output\displaytube.o: ..\Libraries\CMSIS\Device\ST\STM32F0xx\Include\stm32f0xx.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dac.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dma.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_exti.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_syscfg.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_iwdg.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_wwdg.h
+.\output\displaytube.o: ..\Libraries\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
